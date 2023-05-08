@@ -1,0 +1,11 @@
+Download Link: https://assignmentchef.com/product/solved-sketch-shows-two-cylindrical-tanks-interconnected
+<br>
+The sketch shows two cylindrical tanks interconnected with a pipe which has a valve that creates a constant resistance to flow of R<sub>f</sub> when fully open. The height of liquid (of density ρ) in the first tank is h<sub>in</sub> and the second tank h<sub>out</sub>. The cross-sectional area of the first tank is A<sub>in </sub>m<sup>2</sup> and the second tank A<sub>out</sub> m<sup>2</sup>. The flow rate through of liquid through the valve is given by Where: Q = flow rate in m<sup>3</sup> s<sup>-1</sup> P<sub>in</sub> = pressure due to height of liquid in first tank (P<sub>a</sub>) P<sub>out</sub> = pressure due to height of liquid in second tank (P<sub>a</sub>) a) Produce a mathematical model of the process to determine the change in height of fluid in the second tank when the valve is open. b) Determine the time constant for the system.
+
+<img decoding="async" alt="" width="380" height="213" data-srcset="https://i0.wp.com/www.ankitcodinghub.com/wp-content/uploads/2017/03/flow.png?resize=300%2C168&amp;ssl=1 300w, https://i0.wp.com/www.ankitcodinghub.com/wp-content/uploads/2017/03/flow.png?resize=768%2C431&amp;ssl=1 768w, https://i0.wp.com/www.ankitcodinghub.com/wp-content/uploads/2017/03/flow.png?w=819&amp;ssl=1 819w" data-recalc-dims="1" data-src="https://i0.wp.com/www.ankitcodinghub.com/wp-content/uploads/2017/03/flow.png?resize=380%2C213&amp;ssl=1" data-sizes="(max-width: 380px) 100vw, 380px" class="alignnone wp-image-4501 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+ <noscript>
+
+  <img decoding="async" class="alignnone wp-image-4501" src="https://i0.wp.com/www.ankitcodinghub.com/wp-content/uploads/2017/03/flow.png?resize=380%2C213&amp;ssl=1" alt="" width="380" height="213" srcset="https://i0.wp.com/www.ankitcodinghub.com/wp-content/uploads/2017/03/flow.png?resize=300%2C168&amp;ssl=1 300w, https://i0.wp.com/www.ankitcodinghub.com/wp-content/uploads/2017/03/flow.png?resize=768%2C431&amp;ssl=1 768w, https://i0.wp.com/www.ankitcodinghub.com/wp-content/uploads/2017/03/flow.png?w=819&amp;ssl=1 819w" sizes="(max-width: 380px) 100vw, 380px" data-recalc-dims="1">
+
+ </noscript>
